@@ -3,14 +3,8 @@
 
 **NOTE2:** This script is being made, it's not complete.
 ## <p align="center">Mods</p>
-### Open With CMD
-| ID | Description | Creator |
-| -- | ----------- | ------- |
-| `open-with-cmd` |  | jolly.exe |
-
-| Preview |
-| ------- |
-| ![](https://github.com/jolly-exe/wrm/blob/main/data/images/open-with-cmd.png) |
-
+| ID | Additions | Description | Creator | 
+| -- | --------- | ----------- | ------- |
+| `open-with-cmd` | **Explorer Context Button** - Open With CMD | Opens cmd in exact location | **jolly.exe** |
 ## <p align="center">Contact</p>
 - **Discord:** `jolly.exe`
