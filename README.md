@@ -5,7 +5,7 @@
 ## <p align="center">Mods</p>
 | ID | Type | Description | Creator | 
 | -- | ---- | ----------- | ------- |
-| `open-with-cmd` | **Explorer Context Button** | Opens cmd in exact location | **jolly.exe** |
+| `open-with-cmd` | Explorer Context Menu - Button | Opens cmd in exact location | **jolly.exe** |
 ## <p align="center">Contact</p>
 - **Discord:** `jolly.exe`
 - **Mail:** `jolly.exee@gmail.com`
